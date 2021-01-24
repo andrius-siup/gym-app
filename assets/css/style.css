@@ -27,6 +27,11 @@
 
 /* ------------------------------ Timetable */
 
+ .table th, .week-day {
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+}
+
 /* ------------------------------ Pricing */
 
 /* ------------------------------ Callout */
