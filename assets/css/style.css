@@ -1,4 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;900&display=swap');
+
 /* ------------------------------ Callout */
+
+.callout h2{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    color: #fafafa;
+}
+
+.callout p {
+    font-family: 'Rubik',sans-serif;
+    font-weight: 300;
+    color: chocolate;
+}
 
 .callout-container {
     height: 100vh;
