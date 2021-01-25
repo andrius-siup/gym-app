@@ -33,6 +33,10 @@
 }
 
 /* ------------------------------ Personal Trainers */
+
+.trainer-container h2, p {
+    text-align: center;
+}
 .card img {
     height: 211px;
 }
@@ -44,6 +48,11 @@
 .trainer-card {
     display: inline-table;
     justify-content: center;
+}
+
+.trainer-card h5, p {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
 }
 
 .trainer-links a {
