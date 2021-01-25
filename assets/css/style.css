@@ -40,6 +40,11 @@
 .card {
     margin-bottom: 20px;
 }
+
+.trainer-card {
+    display: inline-table;
+    justify-content: center;
+}
 /* ------------------------------ Pricing */
 
 /* ------------------------------ Callout */
