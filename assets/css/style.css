@@ -45,6 +45,13 @@
     display: inline-table;
     justify-content: center;
 }
+
+.trainer-links a {
+    margin: 0 15px;
+    font-size: 20px;
+    display: inline-block;
+    padding-left: 5px;
+}
 /* ------------------------------ Pricing */
 
 /* ------------------------------ Callout */
