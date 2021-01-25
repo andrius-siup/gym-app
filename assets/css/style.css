@@ -44,6 +44,9 @@
 
 .trainer-container h2, p {
     text-align: center;
+        color: #fafafa;
+        margin-top: 20px;
+
 }
 .card img {
     height: 211px;
@@ -51,6 +54,9 @@
 
 .card {
     margin-bottom: 20px;
+}
+.card-body {
+    background-color: #FFFF00;
 }
 
 .trainer-card {
