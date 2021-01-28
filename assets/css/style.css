@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;900&display=swap');
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
 
 /* ------------------------------ Callout */
 
@@ -6,6 +8,7 @@
     font-family: 'Rubik', sans-serif;
     font-weight: 500;
     color: #fafafa;
+    margin-bottom: 30px;
 }
 
 .callout p {
@@ -29,6 +32,10 @@
     justify-content: center;
 }
 
+.jumbotron {
+    background: transparent;
+}
+
 /* ------------------------------ Timetable */
 
  .table th, .week-day {
@@ -44,6 +51,8 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+    
 }
 
 .trainer-container h2 {
