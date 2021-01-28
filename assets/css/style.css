@@ -63,6 +63,20 @@ body {
     border: 0;
 }
 
+/* ------------------------------ Buttons */
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 160px;
+}
+
+.btn--salat {
+    color: white;
+    background-color: #bbcc2f;
+    border-color: yellow;
+
+}
 
 /* ------------------------------ Timetable */
 
