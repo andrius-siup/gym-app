@@ -4,19 +4,6 @@ body {
 
 /* ------------------------------ Callout */
 
-.callout h2{
-    font-family: 'Rubik', sans-serif;
-    font-weight: 500;
-    color: #fafafa;
-    margin-bottom: 30px;
-}
-
-.callout p {
-    font-family: 'Rubik',sans-serif;
-    font-weight: 300;
-    color: chocolate;
-}
-
 .callout-container {
     height: 100vh;
     background-color: cadetblue;
@@ -30,10 +17,27 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.25);
 }
 
 .jumbotron {
     background: transparent;
+}
+
+.jumbotron-header {
+    color: #fafafa;
+    font-weight: bold;
+    margin-bottom: 30px;
 }
 
 /* ------------------------------ Timetable */
