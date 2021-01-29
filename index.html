@@ -18,14 +18,15 @@
     <!-- Navigation bar -->
     <div class="container-fluid navalert-container">
 
-         <div class="container-fluid alert-container">
-        <div class="row d-none d-sm-block">
-            <div class="col-12">
-                <div class="side-wide-alert alert alert-warning">In Line with The Latest Level 5 Restrictions Your Gym will be Closed
-                    until the 31st January</div>
+        <div class="container-fluid alert-container">
+            <div class="row d-none d-sm-block">
+                <div class="col-12">
+                    <div class="side-wide-alert alert alert-warning">In Line with The Latest Level 5 Restrictions Your
+                        Gym will be Closed
+                        until the 31st January</div>
+                </div>
             </div>
         </div>
-    </div>
 
         <nav class="navbar navbar-dark navbar-expand-sm">
             <a href="/" class="navbar-brand">Your Gym</a>
@@ -73,7 +74,8 @@
                     <h1 class="jumbotron-header">Get 1 month of free gym membership.</h1>
                     <hr class="block-divider" color="yellow">
                     <p class="lead">When you sign up for out 6 - month plan.</p>
-                    <button class="btn btn-lg btn--cta btn--salat">Sign Up!</button>
+                    <button class="btn btn-lg btn--cta btn--salat" data-toggle="modal" data-target="#signUpModal">Sign
+                        Up!</button>
                     <p><small>Offer ends 28 Feb 2021</small></p>
                 </section>
             </div>
@@ -326,25 +328,25 @@
 
     </footer>
 
-    <div class="modal" tabindex="-1">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Modal title</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p>Modal body text goes here.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
+    <div class="modal" tabindex="-1" id="signUpModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
