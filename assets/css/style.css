@@ -29,6 +29,10 @@ body {
     font-weight: bold;
 }
 
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
 /* ------------------------------ Callout */
 
 .callout-container {
