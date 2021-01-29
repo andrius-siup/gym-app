@@ -109,6 +109,10 @@ body {
     border: 0;
 }
 
+.timetable-container hr {
+    background-color: #ff3ea5ff;
+}
+
 /* ------------------------------ Buttons */
 
 .btn--cta {
