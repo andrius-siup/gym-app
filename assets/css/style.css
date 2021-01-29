@@ -132,6 +132,10 @@ body {
 }
 
 /* ------------------------------ Timetable */
+.timetable-container {
+    background-color: #ffff00;
+}
+
 .timetable-container .timetable-header{
     text-align: center;
     text-transform: uppercase;
