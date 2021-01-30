@@ -206,7 +206,6 @@ body {
 .pricing-box {
     background-color: #FFFF00;
     color: black;
-    width: 200px;
     margin: 20px;
     padding: 20px;
     flex-direction: row;
