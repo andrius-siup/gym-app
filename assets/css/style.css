@@ -151,6 +151,10 @@ body {
     color: #00a4ccff;
 }
 
+.description-classes h5 {
+    text-align: center;
+}
+
 /* ------------------------------ Personal Trainers */
 
 .trainer-container {
