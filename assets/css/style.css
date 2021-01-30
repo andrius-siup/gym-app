@@ -147,6 +147,10 @@ body {
     margin-bottom: 30px;
 }
 
+.table th i {
+    color: #00a4ccff;
+}
+
 /* ------------------------------ Personal Trainers */
 
 .trainer-container {
