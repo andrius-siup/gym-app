@@ -203,6 +203,15 @@ body {
 
 /* ------------------------------ Pricing */
 
+.pricing-container {
+    background: url("/assets/images/pexels-ivan-samkov-4164766.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
 .pricing-box {
     background-color: #FFFF00;
     color: black;
