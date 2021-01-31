@@ -195,7 +195,11 @@ body {
     justify-content: center;
 }
 
-.trainer-card h5, p {
+.trainer-card h5 {
+    text-align: center;
+}
+
+.trainer-card p {
     text-align: center;
 }
 
