@@ -213,11 +213,12 @@ body {
 }
 
 .pricing-box {
-    background-color: #FFFF00;
+    background-color: transparent;
     color: black;
     margin: 20px;
     padding: 20px;
     flex-direction: row;
+    border: 1px solid #FFFF00;
     
 }
 
