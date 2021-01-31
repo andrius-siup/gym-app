@@ -107,6 +107,7 @@ body {
     width: 75px;
     height: 5px;
     border: 0;
+    background-color: #FFFF00;
 }
 
 .timetable-container hr {
