@@ -114,6 +114,10 @@ body {
     background-color: #ff3ea5ff;
 }
 
+.block-divider--sky {
+    background-color: #52d7ec;
+}
+
 /* ------------------------------ Buttons */
 
 .btn--cta {
