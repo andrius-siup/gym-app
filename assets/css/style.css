@@ -142,7 +142,7 @@ body {
 
 /* ------------------------------ Timetable */
 .timetable-container {
-    background-color: #ffff00;
+    background-color: white;
 }
 
 .timetable-header{
@@ -238,6 +238,12 @@ body {
 .pricing-box p {
     color: #fafafa;
     text-align: center;
+}
+
+.pricing-box button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .membership-header h2 {
