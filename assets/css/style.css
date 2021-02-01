@@ -256,6 +256,10 @@ footer {
     margin: 0;
 }
 
+.inline-block {
+    display: inline-block;
+}
+
 .social-links li a i{
     width: 32px;
     height: 32px;
