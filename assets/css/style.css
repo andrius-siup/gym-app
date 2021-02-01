@@ -306,4 +306,9 @@ footer {
     #callout {
         width: 100%;
     }
-} 
+
+    #timetable {
+        width: 100%;
+        font-size: 11px;
+    }
+}
