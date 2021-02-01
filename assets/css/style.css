@@ -247,4 +247,13 @@ body {
     color: #fafafa;
 }
 
+/* ------------------------------ Footer */
+
+footer {
+    min-height: 120px;
+    background-color: #525252;
+    color: #fafafa;
+    margin: 0;
+}
+
 
