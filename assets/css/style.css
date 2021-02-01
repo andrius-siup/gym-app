@@ -276,3 +276,7 @@ footer {
     background-color: #FFFF00;
     color: aqua;
 }
+
+#footer-details {
+    padding: 20px;
+}
