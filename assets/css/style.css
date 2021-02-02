@@ -298,7 +298,7 @@ footer {
 
 /* ------------------------------ Screen sizes */
 
-@media screen and (min-width: 300px ) {
+@media screen and (max-width: 480px ) {
 
     #navbar {
         width: 100%;
