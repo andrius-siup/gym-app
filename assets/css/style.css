@@ -177,6 +177,11 @@ body {
     margin: 30px 0;
 }
 
+.trainer-header p {
+    margin: 3rem 0;
+    text-align: center;
+}
+
 .card img {
     height: 211px;
 }
