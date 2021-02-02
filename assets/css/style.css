@@ -372,5 +372,9 @@ footer {
     #footer-details .social-links {
        padding-top: 20px;
     }
+
+    #signInModal {
+        width: 100%;
+    }
 }
 
