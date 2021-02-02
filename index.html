@@ -61,7 +61,7 @@
                 </p>
             </div>
             <div class="d-none d-md-block">
-                <a href="/login" class="btn btn--cta btn--salat">Sign Up / Sign In</a>
+                <a href="/login" class="btn btn--cta btn--salat" data-toggle="modal" data-target="#signInModal">Sign Up / Sign In</a>
             </div>
         </nav>
     </div>
@@ -434,11 +434,11 @@
     <!-- Sign Up Modal -->
 
      <!-- Sign In Modal -->
-    <div class="modal" tabindex="-1" id="signUpModal">
+    <div class="modal" tabindex="-1" id="signInModal">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Sign Up For Membership</h5>
+                    <h5 class="modal-title">Sign Into Your Gym</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -446,20 +446,13 @@
                 <div class="modal-body">
                     <form>
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Email address</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1"
+                            <label for="email-for-sign-in">Email address</label>
+                            <input type="email" class="form-control" id="email-for-sign-in"
                                 aria-describedby="emailHelp" placeholder="Enter Email" required>
-                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
-                                else.</small>
                         </div>
                         <div class="form-group">
-                            <label for="password">Password</label>
-                            <input type="password" class="form-control" id="password" placeholder="Password" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="repeatPassword">Repeat Password</label>
-                            <input type="password" class="form-control" id="repeatPassword"
-                                placeholder="Repeat Password" required>
+                            <label for="password-sign-in">Password</label>
+                            <input type="password" class="form-control" id="password-sign-in" placeholder="Password" required>
                         </div>
                         <button type="submit" class="btn btn--salat">Submit</button>
                     </form>
