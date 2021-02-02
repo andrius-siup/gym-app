@@ -181,6 +181,10 @@ body {
     text-align: center;
 }
 
+.description-classes p {
+    text-align: left;
+}
+
 /* ------------------------------ Personal Trainers */
 
 .trainer-container {
@@ -213,7 +217,6 @@ body {
 
 .trainer-card {
     display: inline-table;
-    justify-content: center;
 }
 
 .trainer-card h5 {
@@ -370,3 +373,4 @@ footer {
        padding-top: 20px;
     }
 }
+
