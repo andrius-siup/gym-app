@@ -130,6 +130,14 @@ body {
     width: 160px;
 }
 
+.btn--short{
+    width: 100px;
+}
+
+.btn--white {
+    background-color: white;
+}
+
 .btn--salat {
     color: white;
     background-color: #bbcc2f;
