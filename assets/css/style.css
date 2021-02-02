@@ -342,6 +342,7 @@ footer {
 
     #trainers {
         width: 100%;
+        margin-top: 30px;
     }
 
     #trainers .card .card-img-top{
