@@ -118,6 +118,10 @@ body {
     background-color: #52d7ec;
 }
 
+.block-divider--salad {
+    background-color: #bbcc2f;
+}
+
 /* ------------------------------ Buttons */
 
 .btn--cta {
