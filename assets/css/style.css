@@ -299,6 +299,7 @@ footer {
 /* ------------------------------ Screen sizes */
 
 @media screen and (min-width: 300px ) {
+
     #navbar {
         width: 100%;
     }
@@ -333,5 +334,17 @@ footer {
     #trainers .card {
         width: 100%;
         border: none;
+    }
+
+    #footer-details {
+        width: 100%;
+    }
+
+    #footer-details h5 {
+        display: none;
+    }
+
+    #footer-details .social-links {
+       padding-top: 20px;
     }
 }
