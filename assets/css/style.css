@@ -54,7 +54,7 @@ body {
     height: 100vh;
     background-color: cadetblue;
 
-    background: url("/assets/images/pexels-anush-gorak-1431282.jpg") no-repeat center center fixed;
+    background: url("/assets/images/callout-image.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
