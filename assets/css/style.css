@@ -144,6 +144,15 @@ body {
     border-color: yellow;
 }
 
+.btn--white:hover,
+.btn--white:active,
+.btn--white:focus,
+.btn--white:active:focus {
+     color: white;
+    background-color: #bbcc2f;
+    border-color: yellow;
+} 
+
 .btn--salat:hover,
 .btn--salat:active,
 .btn--salat:focus,
