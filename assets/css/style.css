@@ -178,6 +178,10 @@ body {
     color: #00a4ccff;
 }
 
+.table .week-day {
+    font-weight: bold;
+}
+
 .description-classes h5 {
     text-align: center;
 }
@@ -354,7 +358,7 @@ footer {
 
     #timetable {
         width: 100%;
-        font-size: 11px;
+        font-size: 0.68rem;
         margin-bottom: 30px;
     }
 
