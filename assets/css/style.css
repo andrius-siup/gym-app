@@ -395,6 +395,11 @@ footer {
         margin-bottom: 30px;
     }
 
+    #about-us .jumbotron p {
+        font-size: 0.68rem;
+        margin: 0 10px;
+    }
+
     #membership {
         width: 100%;
         padding-bottom: 20px;
