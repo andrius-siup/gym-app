@@ -221,6 +221,14 @@ body {
     margin: 20px;
 }
 
+/* ------------------------------ Gym Classes */
+
+#gym-classes h2 {
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+}
+
 /* ------------------------------ Personal Trainers */
 
 .trainer-container {
