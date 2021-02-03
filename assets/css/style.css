@@ -347,6 +347,11 @@ footer {
         font-size: 2rem;
     }
 
+    #callout button {
+        width: 115px;
+        font-size: 90%;
+    }
+
     #timetable {
         width: 100%;
         font-size: 11px;
