@@ -190,6 +190,19 @@ body {
     text-align: left;
 }
 
+/* ------------------------------ About Us */
+
+.about-us-container {
+    height: 60vh;
+    background-color: #525252;
+
+    background: url("../images/bc-image-about-us.jpg") no-repeat bottom left fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 /* ------------------------------ Personal Trainers */
 
 .trainer-container {
