@@ -201,6 +201,17 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+}
+
+.about-us h2 {
+    color: #fff;
+    text-align: center;
+}
+
+.about-us p {
+    color: #fff;
+    font-size: 1rem;
 }
 
 /* ------------------------------ Personal Trainers */
