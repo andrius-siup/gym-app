@@ -343,6 +343,10 @@ footer {
         width: 100%;
     }
 
+    #callout .jumbotron-header {
+        font-size: 2rem;
+    }
+
     #timetable {
         width: 100%;
         font-size: 11px;
