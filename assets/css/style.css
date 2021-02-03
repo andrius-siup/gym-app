@@ -40,8 +40,9 @@ body {
 }
 
 .navbar-dark .navbar-brand {
-    color: #fff;
+    color: #ea20bf;
     font-weight: bold;
+    font-size: 2rem;
 }
 
 .navbar .navbar-nav a {
