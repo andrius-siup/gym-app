@@ -123,6 +123,10 @@ body {
     background-color: #bbcc2f;
 }
 
+.block-divider--purple {
+    background-color: #e550fbfa;
+}
+
 /* ------------------------------ Buttons */
 
 .btn--cta {
