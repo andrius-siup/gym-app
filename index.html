@@ -50,8 +50,8 @@
                             <a href="#membership" class="dropdown-item">Membership</a>
                             <a href="#gym-classes" class="dropdown-item">Classes</a>
                             <a href="#about-us" class="dropdown-item">About Us</a>
-                            <a class="dropdown-item" href="/login" data-toggle="modal"
-                            data-target="#signInModal">Sign In</a>
+                            <a class="dropdown-item" href="/login" data-toggle="modal" data-target="#signInModal">Sign
+                                In</a>
                         </div>
                     </li>
                     <li class="nav-item mr-2 d-block d-sm-none"><a class="nav-link" href="/login" data-toggle="modal"
@@ -538,6 +538,38 @@
         </div>
     </div>
     <!-- Sign In Modal -->
+
+    <!-- Contact Us Modal -->
+
+     <div class="modal" tabindex="-1" id="contactUsModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Contact Us</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="email-for-sign-in">Email address</label>
+                            <input type="email" class="form-control" id="email-for-sign-in" aria-describedby="emailHelp"
+                                placeholder="Enter Email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="password-sign-in">Password</label>
+                            <input type="password" class="form-control" id="password-sign-in" placeholder="Password"
+                                required>
+                        </div>
+                        <button type="submit" class="btn btn--salat">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Contact Us Modal -->
+
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
