@@ -433,23 +433,19 @@ footer {
         font-size: 0.68rem;
         margin-bottom: 30px;
     }
-    
-    .table {
-        font-size: 0.9rem;
-    }
 
     #about-us .jumbotron {
         margin-top: 5.5rem;
     }
 
     #about-us .jumbotron p {
-        font-size: 0.9rem;
+        font-size: 0.7rem;
         margin: 0 10px;
     }
 
     #gym-classes {
      width: 100%;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     }
 
     #membership {
