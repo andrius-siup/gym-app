@@ -171,6 +171,10 @@ body {
     background-color: white;
 }
 
+.timetable-container .col-12 {
+    margin-top: 5.5rem;
+}
+
 .timetable-header{
     text-align: center;
     text-transform: uppercase;
@@ -321,6 +325,10 @@ body {
     padding-top: 30px;
     margin-bottom: 30px;
 
+}
+
+.pricing-container .col {
+    margin-top: 1rem;
 }
 
 .pricing-box {
