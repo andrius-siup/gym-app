@@ -433,6 +433,10 @@ footer {
         margin-bottom: 30px;
     }
 
+    #about-us .jumbotron {
+        margin-top: 5.5rem;
+    }
+
     #about-us .jumbotron p {
         font-size: 0.68rem;
         margin: 0 10px;
