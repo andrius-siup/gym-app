@@ -55,7 +55,7 @@ body {
     height: 100vh;
     background-color: cadetblue;
 
-    background: url("../images/callout-image.jpg") no-repeat center center fixed;
+    background: url("../images/callout-img.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
