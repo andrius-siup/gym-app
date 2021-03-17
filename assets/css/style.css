@@ -55,7 +55,7 @@ body {
     height: 100vh;
     background-color: cadetblue;
 
-    background: url("../images/callout-img.jpg") no-repeat center center fixed;
+    background: url("../images/callout-image.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -204,7 +204,7 @@ body {
     height: 60vh;
     background-color: #525252;
 
-    background: url("../images/bc-image-about-us.jpg") no-repeat bottom left fixed;
+    background: url("../images/bc-about-us-image.jpg") no-repeat bottom left fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -315,7 +315,7 @@ body {
 /* ------------------------------ Pricing */
 
 .pricing-container {
-    background: url("../images/membership-bc-image.jpg") no-repeat top center fixed;
+    background: url("../images/bc-membership-image.jpg") no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
