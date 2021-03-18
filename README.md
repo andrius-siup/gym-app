@@ -24,6 +24,20 @@ This is a "Your Gym" landing page,  with useful information
  * Sign In / Sign Up form 
  * Contact Us form
 
+ ### User Stories
+
+ * As a user of the website, I want the main page will be impressive, with a motivation image.
+ * As a user of the website, I want that see the special offer for a gym membership, I like the promotions.
+ * As a user of the website, I want to read more about the gym, do they have parking, wi-fi, shower, lockers, classes, personal trainers, etc.
+ * As a user of the website, I want to be able to see the timetable for classes, for my day management.
+ * As a user of the website, I want to be able to sign up / sign in to the website, for special offers and motivation stories.
+ * As a user of the website, I want to be able to pay for membership online, to avoid cash payments.
+ * As a user of the website, I want to be able to buy a gift card for my close people to surprise them.
+ * As a user of the website, I want to be able to read more info about personal trainers, look at their social life, and choose whatever like to me.
+ * As a user of the website, I want to be able to also contact to personal trainer on my usual social media.
+ * As a user of the website, I want to see the gym address, phone number, also social links to contact the gym for any questions.
+
+
 ### Surface
 
 I used black and white colors scheme 
@@ -73,9 +87,6 @@ There is information about membership plans for different periods.
 ### Personal trainers
 
 There are personal trainers pictures and their own social media links, to contact for some private information or to following their healthy life style.  
-
-
-### 
 
 ##  Technologies
 
