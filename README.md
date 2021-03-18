@@ -1,12 +1,13 @@
-# Readme-Template
 
 # Your Gym
- 
- This is a Gym landing page with usefull information 
+
+ ### About 
+
+This is a "Your Gym" landing page,  with useful information 
  about the gym, timetable, classes, memberships, personal trainers. 
- There is also information about, working hours, location, usefull links for 
- social media gym and trainers. Easy to navigate for any website visitor. This website compactible 
- from mobile to desktop devices.
+ There is also information about, working hours, location, links for personal social media. There is a Sign in / Sign up and a Contact Us form. 
+ Easy to navigate for any website visitor. This website is compatible with mobile to desktop devices. The website was designed for nonexisting gym club,
+  with no existing personal trainers and their names. The gym website was created for educated purposes. The inspiration was borrowed from the Code Institute tutorial "Whiskey drop".
 
 
  # Ux
