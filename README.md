@@ -169,6 +169,15 @@ Grid layout system was borrowed from Bootstrap.
 ### Media 
 
 * All website images that I used in this site was obtained from [pexel](https://www.pexels.com/) website. 
+* Home page background image was boorowed from the Pexels website, author [Anush Gorak](https://www.pexels.com/photo/man-holding-barbell-1431282/).
+* About Us page background image was boorowed from the Unsplash website, author [Victor Freitas](https://unsplash.com/photos/Yuv-iwByVRQ).
+* Club Membership page background image was boorowed from the Pexels website, author [Ivan Samkov](https://www.pexels.com/photo/silver-dumbbells-on-black-steel-rack-4164766/).
+* Personal trainer Allie Deziree image was borrowed from the Pexels website, author [Andrea Piacquadio](https://www.pexels.com/photo/young-female-athlete-training-alone-on-treadmill-in-modern-gym-3768916/).
+* Personal trainer Larisa Bruyne image was borrowed from the Pexels website, author [Andrea Piacquadio](https://www.pexels.com/photo/selective-focus-photography-of-woman-in-white-sports-brassiere-standing-near-woman-sitting-on-pink-yoga-mat-864939/).
+* Personal trainer Rose Liu image was borrowed from the Pexels website, author [Andrea Piacquadio](https://www.pexels.com/photo/woman-wearing-black-and-gray-sport-bra-869243/).
+* Personal trainer Rita Cabano image was borrowed from the Pexels website, author [Andrea Piacquadio](https://www.pexels.com/photo/woman-wearing-red-sports-bra-and-black-pants-863974/).
+* Personal trainer Eden Salah image was borrowed from the Pexels website, author [Pixabay](https://www.pexels.com/photo/blue-and-red-superman-print-tank-top-shirt-38630/).
+* Personal trainer Julie Ohara image was borrowed from the Pexels website, author [The Lazy Artist Gallery](https://www.pexels.com/photo/woman-doing-exercise-inside-gym-2247179/).
 
 ### Acknowledgements
 
