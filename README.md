@@ -144,6 +144,12 @@ The websited is hosted on my Github page.
 1. Type **git clone** then paste the copied URL.
 1. Press enter and clone will be created.   
 
+### Download
+1. Navigate to my repository - [https://github.com/andrius-siup/gym-app.git](https://github.com/andrius-siup/gym-app.git) .
+1. Click the **Code** button.
+1. Click the **Download Zip**, it will be downloaded zip folder.
+1. Extract where you want to keep all files.
+
 ## Author
 
 The website was created by Andrius Siupinys.
