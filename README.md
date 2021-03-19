@@ -124,6 +124,18 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 
 # Deployment
 
+The websited is hosted on my Github page.
+
+### Deployment steps:
+1. Navigate to my GitHub repository - [https://github.com/andrius-siup/gym-app.git](https://github.com/andrius-siup/gym-app.git) . 
+1. Go to the **Settings** tab of the top page.
+1. Scroll down to the **GitHub Pages** section.
+1. Make sure the source is **master branch**, saved it.
+1. After selecting **master branch** the page will refresh.
+1. Scroll down, back to the **GitHub Pages** section and you will see a link that saying "Your site is published" with the link.
+1. Now you can **click the link** and go to the published website.
+
+
 ## Author
 
 The website was created by Andrius Siupinys.
