@@ -3,7 +3,7 @@
 
  ### About 
 
-This is a "Your Gym" landing page,  with useful information 
+This is a **"Your Gym"** landing page,  with useful information 
  about the gym, timetable, classes, memberships, personal trainers. 
  There is also information about, working hours, location, links for personal social media. There is a Sign in / Sign up and a Contact Us form. 
  Easy to navigate for any website visitor. This website is compatible with mobile to desktop devices. The website was designed for nonexisting gym club,
@@ -127,12 +127,12 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 The websited is hosted on my Github page.
 
 ### Deployment steps:
-1. Navigate to my GitHub repository - [https://github.com/andrius-siup/gym-app.git](https://github.com/andrius-siup/gym-app.git) . 
+1. Navigate to my **GitHub** repository - [https://github.com/andrius-siup/gym-app.git](https://github.com/andrius-siup/gym-app.git) . 
 1. Go to the **Settings** tab of the top page.
 1. Scroll down to the **GitHub Pages** section.
 1. Make sure the source is **master branch**, saved it.
 1. After selecting **master branch** the page will refresh.
-1. Scroll down, back to the **GitHub Pages** section and you will see a link that saying "Your site is published" with the link.
+1. Scroll down, back to the **GitHub Pages** section and you will see a link that saying **"Your site is published"** with the link.
 1. Now you can **click the link** and go to the published website.
 
 ### Cloning Steps:
@@ -155,12 +155,9 @@ The websited is hosted on my Github page.
 The website was created by Andrius Siupinys.
 
 # Credits
-Navbar, main-page, buttons,  was boorowed from Whiskey Drop landing page.
-Footer was borrowed from Rosie Odenkirk landing page.
+Navbar, main-page, buttons,  was boorowed from **"Whiskey Drop"** landing page.
+Footer was borrowed from **"Rosie Odenkirk"** landing page.
 Grid layout system was borrowed from Bootstrap.
-
-
-
 
 ### Content
 
@@ -181,7 +178,7 @@ Grid layout system was borrowed from Bootstrap.
 
 ### Acknowledgements
 
-* I received inspiration for this project from [Code Institute](https://codeinstitute.net/) tutorial Whiskey Drop landing page.
+* I received inspiration for this project from [Code Institute](https://codeinstitute.net/) tutorial "Whiskey Drop" landing page.
 * Brian Macharia - mentor support, huge help through the project.
 * Slack community - help for solve code isues.
 * Jim_Lynx - to help with Gitpod.
