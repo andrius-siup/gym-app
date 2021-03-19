@@ -48,13 +48,13 @@ with bright and small accents.
 
 ### Wireframes
 
-* [Home](assets/images/home-wireframe.jpg)
-* [Timetable](assets/images/timetable-wireframe.jpg)
-* [About Us](assets/images/about-wireframe.jpg)
-* [Classes](assets/images/classes-wireframe.jpg)
-* [Membership](assets/images/membership-wireframe.jpg)
-* [Personal Trainers](assets/images/personal-trainer-wireframe.jpg)
-* [Footer](assets/images/footer-wireframe.jpg)
+* Home Page ![Home](assets/images/home-wireframe.jpg)
+* Timetable Page ![Timetable](assets/images/timetable-wireframe.jpg)
+* About Us Page![About Us](assets/images/about-wireframe.jpg)
+* Classes Page![Classes](assets/images/classes-wireframe.jpg)
+* Membership Page ![Membership](assets/images/membership-wireframe.jpg)
+* Personal Trainers Page ![Personal Trainers](assets/images/personal-trainer-wireframe.jpg)
+* Footer ![Footer](assets/images/footer-wireframe.jpg)
 
 
  # Features
@@ -120,8 +120,7 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 * All buttons works and opening forms like as should.
 * All social media icons opening new blank page.
 * Timetable hover on each row, help the user easy to see what is on it.
-* All three forms Sign In, Sign up and Contact Us has requirement fill all fields before submiting.
-
+* All three forms Sign In, Sign up and Contact Us has requirement fill all fields before submited.
 
 
 # Deployment
