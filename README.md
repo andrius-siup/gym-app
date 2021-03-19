@@ -110,6 +110,7 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 * [Markup Validation Service](https://validator.w3.org/) - used for tested html code.
 * [CSS validation service](https://jigsaw.w3.org/css-validator/) - used for tested css code.
 * [Responsive Design](http://ami.responsivedesign.is/#) - checked website responsive.
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - used for testing and found new ideas, it's like in sandbox.
 
 # Testing
 
@@ -125,10 +126,13 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 [HTML Validator](https://validator.w3.org/)   
 ![](assets/images/no-errors.png) 
 
-
 [CSS Validator](https://jigsaw.w3.org/css-validator/)
 ![](assets/images/css-validator.png)
 
+There was few warnings on the CSS validator, but was easily to fix: in the < section > was written < h1 > and 
+another warning was that < section > was without h2-h6.
+
+[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - I was used it a lot throughout the project. Very handy tool.
 
 
 # Deployment
