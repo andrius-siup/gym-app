@@ -9,6 +9,7 @@ This is a "Your Gym" landing page,  with useful information
  Easy to navigate for any website visitor. This website is compatible with mobile to desktop devices. The website was designed for nonexisting gym club,
   with no existing personal trainers and their names. The gym website was created for educated purposes. The inspiration was borrowed from the Code Institute tutorial "Whiskey drop".
 
+The website you can view here - [Your Gym](https://andrius-siup.github.io/gym-app/) .
 
  # Ux
 
@@ -43,7 +44,7 @@ This is a "Your Gym" landing page,  with useful information
 I used black and white colors scheme 
 with bright and small accents.
 
-### Skeleton
+### Wireframes
 
 * [Home](assets/images/home-wireframe.jpg)
 * [Timetable](assets/images/timetable-wireframe.jpg)
@@ -88,21 +89,52 @@ There is information about membership plans for different periods.
 
 There are personal trainers pictures and their own social media links, to contact for some private information or to following their healthy life style.  
 
-##  Technologies
+#  Technologies Used
 
-For this website I used these technologies:
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) - provides the content and structure for website.
+* [CSS](https://en.wikipedia.org/wiki/CSS) - provides the styling.
+* [Gitpod](https://www.gitpod.io/) - used for write the all code, commited, pushed to the GitHub.
+* [GitHub](https://github.com/) - used for hosting this code and deployment.
 
-* HTML
-* CSS
-* Bootstrap 4.6
-* Fontawesom
-* Google Fonts
+### Design
+
+* [Bootstrap](https://getbootstrap.com/) - framwork was used to create the layout for all of the page. Also used it for grid system, 
+navbar, trainer cards, sign up / sign in and contact us forms.
+* [Fontawesom](https://fontawesome.com/) - used for style the social media links and used in timetable.
+* [Google Fonts](https://fonts.google.com/) - used Ubuntu fonts.
+
+### Testing
+
+* [Markup Validation Service](https://validator.w3.org/) - used for tested html code.
+* [CSS validation service](https://jigsaw.w3.org/css-validator/) - used for tested css code.
+* [Responsive Design](http://ami.responsivedesign.is/#) - checked website responsive.
+
+# Testing
+
+* Website Logo brings the user to the main page.
+* Navigation links work and the user is directed to the correct page of the site. 
+* Hover over links are all works and changed color.
+* Dropdown link works and extended more website pages.
+* All buttons works and opening forms like as should.
+* All social media icons opening new blank page.
+* Timetable hover on each row, help the user easy to see what is on it.
+* All three forms Sign In, Sign up and Contact Us has requirement fill all fields before submiting.
+
+
+
+# Deployment
 
 ## Author
 
 The website was created by Andrius Siupinys.
 
 # Credits
+Navbar, main-page, buttons,  was boorowed from Whiskey Drop landing page.
+Footer was borrowed from Rosie Odenkirk landing page.
+Grid layout system was borrowed from Bootstrap.
+
+
+
 
 ### Content
 
@@ -114,4 +146,7 @@ The website was created by Andrius Siupinys.
 
 ### Acknowledgements
 
-* I received inspiration for this project from 
+* I received inspiration for this project from [Code Institute](https://codeinstitute.net/) tutorial Whiskey Drop landing page.
+* Brian Macharia - mentor support, huge help through the project.
+* Slack community - help for solve code isues.
+* Jim_Lynx - to help with Gitpod.
