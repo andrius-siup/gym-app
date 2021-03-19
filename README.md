@@ -133,6 +133,8 @@ another warning was that < section > was without h2-h6.
 
 [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - I was used it a lot throughout the project. Very handy tool.
 
+[Mobile - Friendly Test](https://search.google.com/test/mobile-friendly) - was checked or is friendly for mobile devices.
+![](assets/images/mobile-friendly-test.png)
 
 # Deployment
 
