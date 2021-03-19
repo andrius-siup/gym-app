@@ -1,6 +1,8 @@
 
 # Your Gym
 
+![](assets/images/responsive-design-home.png)
+
  ### About 
 
 This is a **"Your Gym"** landing page,  with useful information 
