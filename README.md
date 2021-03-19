@@ -122,6 +122,13 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 * Timetable hover on each row, help the user easy to see what is on it.
 * All three forms Sign In, Sign up and Contact Us has requirement fill all fields before submited.
 
+[HTML Validator](https://validator.w3.org/)   
+![](assets/images/no-errors.png) 
+
+[CSS Validator](https://jigsaw.w3.org/css-validator/)
+![](assets/images/css-validator.png)
+
+
 
 # Deployment
 
