@@ -125,6 +125,7 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 [HTML Validator](https://validator.w3.org/)   
 ![](assets/images/no-errors.png) 
 
+
 [CSS Validator](https://jigsaw.w3.org/css-validator/)
 ![](assets/images/css-validator.png)
 
