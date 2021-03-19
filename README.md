@@ -135,6 +135,14 @@ The websited is hosted on my Github page.
 1. Scroll down, back to the **GitHub Pages** section and you will see a link that saying "Your site is published" with the link.
 1. Now you can **click the link** and go to the published website.
 
+### Cloning Steps:
+1. Navigate to my repository - [https://github.com/andrius-siup/gym-app.git](https://github.com/andrius-siup/gym-app.git) .
+1. Click the **Code** button.
+1. To clone with **HTTPS** copy the URL in the box [https://github.com/andrius-siup/gym-app.git](https://github.com/andrius-siup/gym-app.git) .
+1. Open your IDE.
+1. Changed the directory to the location you want to clone to be made.
+1. Type **git clone** then paste the copied URL.
+1. Press enter and clone will be created.   
 
 ## Author
 
