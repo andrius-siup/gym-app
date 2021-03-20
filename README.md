@@ -155,6 +155,18 @@ another warning was that < section > was without h2-h6.
 [Mobile - Friendly Test](https://search.google.com/test/mobile-friendly) - was checked or is friendly for mobile devices.
 ![](assets/images/mobile-friendly-test.png)
 
+
+[Lighthouse](https://developers.google.com/web/tools/lighthouse) - was used to improve the quality of the website.
+
+![](assets/images/lighthouse-result.png)
+
+Previously were found two issues: were missed **meta description** and **rel noopener**. It is a very helpful tool, shows exactly what and how you need to solve the issue.
+Fixed that, added  **rel="noopener"** to all social media links to prevents potential malicious behavior from the destination document. Also was added **meta description**,
+that Google search result could show for the user.
+
+
+![](assets/images/no-meta-description.png)
+
 # Deployment
 
 The websited is hosted on my Github page.
