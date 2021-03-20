@@ -6,7 +6,7 @@
 ### About 
 
 This is a **"Your Gym"** landing page,  with useful information about the gym, timetable, classes, memberships, personal trainers. 
-There is also information about, working hours, location, links for social media. There is a Sign in / Sign up and Contact Us form. 
+There is also information about working hours, location and links for social media. There is a Sign in / Sign up and Contact Us form. 
 Easy to navigate for any website visitor. This website is compatible with mobile to desktop devices. The website was designed for nonexisting gym club,
 with no existing personal trainers and their names. The "Your Gym" website was created for educational purposes. The inspiration was borrowed from the Code Institute
 tutorial "Whiskey drop".
@@ -77,8 +77,7 @@ Footer
 
 
  # Features
- The website have navigation bar that can easily navigate throug the website. The is also have
- dropdawn links that is usefull on mobile screens.
+ The website has a navigation bar that the user can easily navigate through the website. Also, there is a dropdown link that is useful on mobile screens.
 
 ### Home
 
@@ -86,11 +85,11 @@ The Home page features are hero image with Sign In / Sign Up buttons dark backgr
 
 ### Timetable
 
-The Timteable I used black on the white background, with hover elements for easily navigate. There simple timtable that's include day, time and workout classes.
+For the Timetable, I used a white background with a black frame and hover element for easy navigation. This Timetable has day, time, and classes.
 
 ### About Us
 
-Here I used nice background image with short and usefull information about gym:
+Here I used nice background image with short and useful information about gym:
 
 * Free car parkng
 * Opening hours
@@ -100,15 +99,15 @@ Here I used nice background image with short and usefull information about gym:
 
 ### Classes 
 
-I described classes for new and existing gym members that are can read information about classes that can they would be expected when come in.
+I described classes for new and existing gym members that they could read information about classes and what they can expect when coming in.
 
 ### Club Memberships
 
-There is information about membership plans for different periods.
+There is information about membership plans for different periods. Also, the user can purchase a gift card.
 
 ### Personal trainers
 
-There are personal trainers pictures and their own social media links, to contact for some private information or to following their healthy life style.  
+There are personal trainers' pictures and their own social media links. The user can contact trainers for some questions, or to following trainers' healthy lifestyle.  
 
 #  Technologies Used
 
@@ -119,7 +118,7 @@ There are personal trainers pictures and their own social media links, to contac
 
 ### Design
 
-* [Bootstrap](https://getbootstrap.com/) - framwork was used to create the layout for all of the page. Also used it for grid system, 
+* [Bootstrap](https://getbootstrap.com/) - framework was used to create the layout for all of the page. Also used it for grid system, 
 navbar, trainer cards, sign up / sign in and contact us forms.
 * [Fontawesom](https://fontawesome.com/) - used for style the social media links and used in timetable.
 * [Google Fonts](https://fonts.google.com/) - used Ubuntu fonts.
@@ -134,13 +133,13 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 # Testing
 
 * Website Logo brings the user to the main page.
-* Navigation links work and the user is directed to the correct page of the site. 
+* Navigation links works and the user is directed to the correct page of the site. 
 * Hover over links are all works and changed color.
 * Dropdown link works and extended more website pages.
-* All buttons works and opening forms like as should.
-* All social media icons opening new blank page.
+* All buttons work and open forms like as should.
+* All social media icons opening a new blank page.
 * Timetable hover on each row, help the user easy to see what is on it.
-* All three forms Sign In, Sign up and Contact Us has requirement fill all fields before submited.
+* All three forms Sign In, Sign up and Contact Us has requirement fill in all fields before submitting.
 
 [HTML Validator](https://validator.w3.org/)   
 ![](assets/images/no-errors.png) 
@@ -148,7 +147,7 @@ navbar, trainer cards, sign up / sign in and contact us forms.
 [CSS Validator](https://jigsaw.w3.org/css-validator/)
 ![](assets/images/css-validator.png)
 
-There was few warnings on the CSS validator, but was easily to fix: in the < section > was written < h1 > and 
+There were few warnings on the CSS validator, but was easily to fix: in the < section > was written < h1 > and 
 another warning was that < section > was without h2-h6.
 
 [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - I was used it a lot throughout the project. Very handy tool.
@@ -189,9 +188,14 @@ The websited is hosted on my Github page.
 The website was created by Andrius Siupinys.
 
 # Credits
+
+I received inspiration for this project from [Code Institute](https://codeinstitute.net/) tutorial "Whiskey Drop" landing page.
+
 Navbar, main-page, buttons,  was boorowed from **"Whiskey Drop"** landing page.
+
 Footer was borrowed from **"Rosie Odenkirk"** landing page.
-Grid layout system was borrowed from Bootstrap.
+
+Grid layout system, forms was borrowed from **Bootstrap**.
 
 ### Content
 
@@ -212,7 +216,6 @@ Grid layout system was borrowed from Bootstrap.
 
 ### Acknowledgements
 
-* I received inspiration for this project from [Code Institute](https://codeinstitute.net/) tutorial "Whiskey Drop" landing page.
 * Brian Macharia - mentor support, huge help through the project.
 * Slack community - help for solve code isues.
 * Jim_Lynx - to help with Gitpod.
