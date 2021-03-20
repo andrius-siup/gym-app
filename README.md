@@ -47,19 +47,26 @@ with bright and small accents.
 
 ### Wireframes
 
-* Home Page 
+Home Page 
+
 ![Home](assets/images/home-wireframe.jpg)
-* Timetable Page 
+Timetable Page 
+
 ![Timetable](assets/images/timetable-wireframe.jpg)
-* About Us Page
+About Us Page
+
 ![About Us](assets/images/about-wireframe.jpg)
-* Classes Page
+Classes Page
+
 ![Classes](assets/images/classes-wireframe.jpg)
-* Membership Page 
+Membership Page
+
 ![Membership](assets/images/membership-wireframe.jpg)
-* Personal Trainers Page 
+Personal Trainers Page
+
 ![Personal Trainers](assets/images/personal-trainer-wireframe.jpg)
-* Footer 
+Footer
+ 
 ![Footer](assets/images/footer-wireframe.jpg)
 
 
