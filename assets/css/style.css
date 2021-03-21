@@ -476,6 +476,8 @@ footer {
 
     #footer-details {
         width: 100%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     #footer-details h5 {
