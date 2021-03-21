@@ -474,6 +474,10 @@ footer {
         border: none;
     }
 
+    .trainer-header p {
+        text-align: justify;
+    }
+
     #footer-details {
         width: 100%;
         margin-left: auto;
